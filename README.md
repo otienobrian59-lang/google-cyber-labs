@@ -49,7 +49,7 @@ My goal is to build a strong, well-documented portfolio that demonstrates both m
 ---
 
 ## 📁 Repository Structure
-
+```bash 
 google-cyber-labs/
 ├── Module-01-Foundations/
 ├── Module-02-Risk-Management/
