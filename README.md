@@ -49,3 +49,43 @@ My goal is to build a strong, well-documented portfolio that demonstrates both m
 ---
 
 ## 📁 Repository Structure
+
+google-cyber-labs/
+├── Module-01-Foundations/
+├── Module-02-Risk-Management/
+├── Module-03-Networks/
+├── Module-04-Linux-SQL/
+├── scripts/              # Python & Bash scripts
+├── resources/            # Cheatsheets & references
+├── screenshots/          # Lab screenshots
+└── README.md
+
+
+
+## 🔥 Key Labs & Write-ups
+
+- **Lab 1**: Security Frameworks & CIA Triad Analysis *(Completed)*
+- **Lab 2**: Risk Assessment Exercise
+- **Lab 3**: Network Traffic Analysis with Wireshark
+- **Lab 4**: Linux Command Line Navigation & File Permissions
+- **Lab 5**: SQL Injection & Basic Database Security
+
+*(I'll add detailed write-ups with screenshots as I complete each module)*
+
+---
+
+## 📌 Important Commands Learned
+
+```bash
+# Linux Basic Commands
+ls -la
+pwd
+grep -r "search_term"
+sudo apt update && sudo apt upgrade
+
+# Nmap Scanning
+nmap -sV -O target_ip
+nmap -sC -sV -A target_ip
+
+# Wireshark & tcpdump examples
+tcpdump -i eth0
