@@ -1,0 +1,27 @@
+# General .gitignore for Cybersecurity Labs
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Logs
+*.log
+
+# Sensitive data
+.env
+secrets.json
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.bak
+
+# Lab specific artifacts
+Module-*/temp/
+scripts/__pycache__/

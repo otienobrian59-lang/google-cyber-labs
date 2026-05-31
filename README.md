@@ -26,14 +26,14 @@ My goal is to build a strong, well-documented portfolio that demonstrates both m
 
 | Module | Status | Key Topics Covered |
 |--------|--------|--------------------|
-| 1. Foundations of Cybersecurity | ✅ Completed | CIA Triad, Security Frameworks, NIST |
-| 2. Play It Safe: Manage Security Risks | 🔄 In Progress | Risk Management, OWASP, Compliance |
+| 1. Foundations of Cybersecurity | ✅ Completed | CIA Triad, Security Frameworks, NIST CSF |
+| 2. Play It Safe: Manage Security Risks | 🔄 In Progress | Risk Management, NIST RMF, Audits |
 | 3. Connect and Protect: Networks and Network Security | ⏳ Not Started | TCP/IP, Firewalls, VPNs |
 | 4. Tools of the Trade: Linux and SQL | ⏳ Not Started | Linux Commands, SQL Queries |
 | 5. Assets, Threats, and Vulnerabilities | ⏳ Not Started | Threat Modeling, Vulnerability Scanning |
 | 6. Sound the Alarm: Detection and Response | ⏳ Not Started | SIEM, Incident Response |
 | 7. Automate Cybersecurity Tasks with Python | ⏳ Not Started | Python for Security |
-| 8. Put It All Together: Capstone | ⏳ Not Started | Final Project |
+| 8. Put It All Together: Capstone | ⏳ Not Started | Final Project, Portfolio |
 
 
 ---
@@ -55,12 +55,18 @@ google-cyber-labs/
 ├── Module-02-Risk-Management/
 ├── Module-03-Networks/
 ├── Module-04-Linux-SQL/
+├── Module-05-Assets-Threats-Vulnerabilities/
+├── Module-06-Detection-Response/
+├── Module-07-Python/
+├── Module-08-Capstone/
 ├── scripts/              # Python & Bash scripts
 ├── resources/            # Cheatsheets & references
 ├── screenshots/          # Lab screenshots
+├── notes/                # General notes
+├── CONTRIBUTING.md       # Contribution guidelines
+├── SECURITY.md           # Security policy
 └── README.md
-
-
+```
 
 ## 🔥 Key Labs & Write-ups
 
@@ -89,3 +95,4 @@ nmap -sC -sV -A target_ip
 
 # Wireshark & tcpdump examples
 tcpdump -i eth0
+```
