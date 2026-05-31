@@ -61,7 +61,6 @@ The foundation of cybersecurity, used to guide security policies and identify vu
 
 ## 🖼️ Lab Screenshots
 ![CIA Triad Analysis](../screenshots/module1-cia-triad.png)
-*(Note: Ensure screenshots are uploaded to the `screenshots/` directory)*
 
 ---
 
