@@ -64,5 +64,10 @@ The foundation of cybersecurity, used to guide security policies and identify vu
 
 ---
 
+## 🎓 Certificate
+![Module 1 Certificate](https://coursera-certificate-images.s3.amazonaws.com/K46CJAD5BZR1)
+
+---
+
 ## 💭 My Reflection
 This module built a solid foundation for my journey. Learning about the CIA triad helped me view security incidents through a structured lens, and understanding the NIST framework gave me a roadmap for how organizations manage risk. I'm excited to dive deeper into Risk Management in Module 2.
