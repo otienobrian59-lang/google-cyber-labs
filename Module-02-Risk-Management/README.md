@@ -1,6 +1,6 @@
 # Module 2: Play It Safe: Manage Security Risks
 
-**Status**: 🔄 In Progress
+**Status**: ✅️ Completed.
 
 ## Key Concepts
 
