@@ -1,6 +1,6 @@
 # Module 3: Connect and Protect: Networks and Network Security
 
-**Status**: ⏳ Not Started
+**Status**:🔄 In Progress
 
 ## Key Concepts
 
